@@ -1,0 +1,7 @@
+#!/bin/sh
+# 
+# A simple to do app
+
+set -e
+
+touch ~/Desktop/"$*"
